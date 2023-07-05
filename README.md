@@ -1,5 +1,7 @@
 # flutter-action
 
+Changed to test CI.
+
 Flutter environment for use in GitHub Actions. It works on Linux, Windows, and macOS.
 
 ## Usage
