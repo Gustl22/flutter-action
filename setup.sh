@@ -38,6 +38,8 @@ transform_path() {
 	fi
 }
 
+# Add some comment
+
 download_archive() {
 	archive_url="$MANIFEST_BASE_URL/$1"
 	archive_name=$(basename "$1")
